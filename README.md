@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif)]
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTzEviTrm8v8FrTHusErymuceffn1e2VZ-w&s))]
 
 <h1 align="center">Hi 👋, I'm Mohamed Ghareb</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
